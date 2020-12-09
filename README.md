@@ -1,7 +1,7 @@
 # Workshop: Introduction to Python for The Central Dogma of Biology
-My solutions for the tasks in the workshop.
+My solutions for the tasks in the workshop are in the "workshop.py" file.
 
-Cloned from https://github.com/IC-Computational-Biology-Society/Central_Dogma_session.
+All other files cloned from https://github.com/IC-Computational-Biology-Society/Central_Dogma_session.
 
 
 ## Details of use
